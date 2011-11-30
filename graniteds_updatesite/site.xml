@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="GraniteDS Update Site" url="http://www.graniteds.org/public/update-site">
+      GraniteDS Update Site
+   </description>
+   <feature url="features/org.graniteds.gas3_2.3.0.GA.jar" id="org.graniteds.gas3" version="2.3.0.GA">
+      <category name="org.granite.tools"/>
+   </feature>
+   <feature url="features/org.graniteds.wizard_1.0.0.GA.jar" id="org.graniteds.wizard" version="1.0.0.GA">
+      <category name="org.granite.tools"/>
+   </feature>
+   <category-def name="org.granite.tools" label="GraniteDS Eclipse Tools"/>
+</site>
