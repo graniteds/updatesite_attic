@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="org.graniteds.wizard"
+      id="org.granite.wizard"
       label="GraniteDS New Project Wizard"
       version="1.0.0.GA"
       provider-name="GraniteDS">
