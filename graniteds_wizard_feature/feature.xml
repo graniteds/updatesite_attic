@@ -2,7 +2,7 @@
 <feature
       id="org.granite.wizard"
       label="GraniteDS New Project Wizard"
-      version="1.0.0.GA"
+      version="2.3.0.GA"
       provider-name="GraniteDS">
 
    <description>
