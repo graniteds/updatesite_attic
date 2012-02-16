@@ -3,10 +3,10 @@
    <description name="GraniteDS Update Site" url="http://www.graniteds.org/public/update-site">
       GraniteDS Update Site
    </description>
-   <feature url="features/org.granite.builder_2.3.0.GA.jar" id="org.granite.builder" version="2.3.0.GA">
+   <feature url="features/org.granite.builder_2.3.1.GA.jar" id="org.granite.builder" version="2.3.1.GA">
       <category name="org.granite.tools"/>
    </feature>
-   <feature url="features/org.granite.wizard_2.3.0.GA_U1.jar" id="org.granite.wizard" version="2.3.0.GA_U1">
+   <feature url="features/org.granite.wizard_2.3.1.GA.jar" id="org.granite.wizard" version="2.3.1.GA">
       <category name="org.granite.tools"/>
    </feature>
    <category-def name="org.granite.tools" label="GraniteDS Eclipse Tools"/>
