@@ -2,7 +2,7 @@
 <feature
       id="org.granite.builder"
       label="GraniteDS Gas3 Builder"
-      version="2.3.1.GA"
+      version="2.3.2.GA"
       provider-name="GraniteDS">
 
    <description url="http://www.example.com/description">
@@ -489,7 +489,7 @@ DAMAGES.
          id="org.granite.builder"
          download-size="0"
          install-size="0"
-         version="2.3.1.GA"
+         version="2.3.2.GA"
          unpack="false"/>
 
 </feature>
