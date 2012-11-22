@@ -2,7 +2,7 @@
 <feature
       id="org.granite.builder"
       label="GraniteDS Gas3 Builder"
-      version="2.3.2.GA"
+      version="3.0.0.M1"
       provider-name="GraniteDS">
 
    <description url="http://www.example.com/description">
