@@ -489,7 +489,7 @@ DAMAGES.
          id="org.granite.builder"
          download-size="0"
          install-size="0"
-         version="2.3.2.GA"
+         version="3.0.0.M1"
          unpack="false"/>
 
 </feature>
