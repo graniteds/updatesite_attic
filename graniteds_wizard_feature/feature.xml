@@ -2,7 +2,7 @@
 <feature
       id="org.granite.wizard"
       label="GraniteDS New Project Wizard"
-      version="3.0.0.M2"
+      version="3.0.0.M3"
       provider-name="GraniteDS">
 
    <description>
@@ -485,6 +485,6 @@ DAMAGES.
          id="org.granite.wizard"
          download-size="0"
          install-size="0"
-         version="3.0.0.M2"/>
+         version="3.0.0.M3"/>
 
 </feature>
